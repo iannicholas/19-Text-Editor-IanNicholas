@@ -1,10 +1,13 @@
-# 19-Text-Editor-IanNicholas
+# Project Name
 Just Another Text Editor
 
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Descritpion
   I text editor you can install and use offline.
+
+  ## Technologies used
+  PWA, Webpack, Babel, Service Workers, Concurrently, Workbox, IndexDB, Manifest
 
   ## Table Of Contents
   [Images](#images)
