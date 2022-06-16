@@ -30,13 +30,13 @@
   ![Demo of JATE text and install.](./assets/idb.PNG)
   ## Installation
 
-  Fork repository then run npm install. ONce niavigated to git@github.com:iannicholas/Text-Editor.git, you have the choice to install to your computer or not.
+  Fork repository then run npm install. Once navigated to https://murmuring-mountain-15354.herokuapp.com/, you have the choice to install to your computer or not.
 
   ## License
   MIT
 
   ## Usage
-  Navigate in your favorite browser to git@github.com:iannicholas/Text-Editor.git, start typing your code!
+  Navigate in your favorite browser to https://murmuring-mountain-15354.herokuapp.com/, start typing your code!
   
   ## Test
   ~~~
