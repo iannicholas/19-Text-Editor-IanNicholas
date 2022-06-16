@@ -1,5 +1,5 @@
-# Project Name
-Just Another Text Editor
+  # Project Name
+  Just Another Text Editor
 
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
@@ -30,15 +30,13 @@ Just Another Text Editor
   ![Demo of JATE text and install.](./assets/idb.PNG)
   ## Installation
 
-  ~~~
-  Click the install button!
-  ~~~
+  Fork repository then run npm install. ONce niavigated to git@github.com:iannicholas/Text-Editor.git, you have the choice to install to your computer or not.
 
   ## License
   MIT
 
   ## Usage
-  Just start typing your code!
+  Navigate in your favorite browser to git@github.com:iannicholas/Text-Editor.git, start typing your code!
   
   ## Test
   ~~~
