@@ -30,7 +30,7 @@
   ![Demo of JATE text and install.](./assets/idb.PNG)
   ## Installation
 
-  Fork repository then run npm install. When install command is finished run npm start. Once the server is started navigated to https://murmuring-mountain-15354.herokuapp.com/, you have the choice to install to your computer or not.
+  Fork repository then run npm install. When install command is finished run npm start. Once the server is started navigate to https://murmuring-mountain-15354.herokuapp.com/, you have the choice to install to your computer or not.
 
   ## License
   MIT
