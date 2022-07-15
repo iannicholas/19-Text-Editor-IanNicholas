@@ -4,10 +4,10 @@
   [![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Descritpion
-  I text editor you can install and use offline.
+  A simple text editor you can install and use offline. Simply follow the installation instructions and you can type some code anywhere!
 
   ## Technologies used
-  PWA, Webpack, Babel, Service Workers, Concurrently, Workbox, IndexDB, Manifest
+  PWA, Webpack, Babel, Service Workers, Concurrently, Workbox, IndexDB, Manifest, Nodemon
 
   ## Table Of Contents
   [Images](#images)
@@ -30,7 +30,7 @@
   ![Demo of JATE text and install.](./assets/idb.PNG)
   ## Installation
 
-  Fork repository then run npm install. Once navigated to https://murmuring-mountain-15354.herokuapp.com/, you have the choice to install to your computer or not.
+  Fork repository then run npm install. When install command is finished run npm start. Once the server is started navigated to https://murmuring-mountain-15354.herokuapp.com/, you have the choice to install to your computer or not.
 
   ## License
   MIT
